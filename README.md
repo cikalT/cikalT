@@ -128,41 +128,11 @@ Mobile test prep app (Flutter) with fitness tracking, psychometric testing, and 
 
 ### GitHub Stats
 
-<!-- ============================================================
-     SELF-HOSTING SETUP (do this once, then the cards never break)
-
-     1. Fork https://github.com/anuraghazra/github-readme-stats
-     2. Go to https://vercel.com/new and import your fork
-     3. Add environment variable:  PAT_1 = <your GitHub personal access token>
-        (create token at https://github.com/settings/tokens — only "public_repo" scope needed)
-     4. Deploy. Your instance URL will be: https://<your-project>.vercel.app
-     5. Replace YOUR_VERCEL_INSTANCE below with that URL
-
-     For streak stats:
-     1. Fork https://github.com/DenverCoder1/github-readme-streak-stats
-     2. Deploy to Vercel the same way (no env var needed)
-     3. Replace YOUR_STREAK_INSTANCE below with that URL
-     ============================================================ -->
-
 <div align="center">
 
-<!-- Replace YOUR_VERCEL_INSTANCE with your self-hosted github-readme-stats URL -->
-<img src="https://YOUR_VERCEL_INSTANCE/api?username=cikalT&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" alt="GitHub Stats" />
-<!-- Replace YOUR_STREAK_INSTANCE with your self-hosted streak-stats URL -->
-<img src="https://YOUR_STREAK_INSTANCE?user=cikalT&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=cikalT&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 
-<!-- Replace YOUR_VERCEL_INSTANCE with your self-hosted github-readme-stats URL -->
-[![Top Languages](https://YOUR_VERCEL_INSTANCE/api/top-langs/?username=cikalT&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/cikalT)
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cikalT&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=cikalT&theme=github-light&hide_border=true&area=true" />
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=cikalT&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="100%" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cikalT&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="100%" alt="Activity Graph" />
 
 </div>
 
