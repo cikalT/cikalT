@@ -6,7 +6,7 @@
 
 7+ years shipping products across EdTech, Mobile, and AI — serving 200K+ users along the way.
 
-[![Portfolio](https://img.shields.io/badge/cikalt.my.id-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cikalt.my.id)
+[![Portfolio](https://img.shields.io/badge/cik.al-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cik.al)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cikaltaruna/)
 [![X](https://img.shields.io/badge/@CikalTaruna-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CikalTaruna)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.cikalt@gmail.com)
@@ -109,7 +109,7 @@ National digital academic competition with real-time simulation testing for 8K+ 
 <tr>
 <td width="50%">
 
-**[Solara Space](https://hpl-wheel.cikalt.my.id/)**
+**[Solara Space](https://solara-space.cik.al/)**
 Interior design platform with AI-powered room visualization and multi-brand product aggregation.
 
 </td>
@@ -122,7 +122,7 @@ Mobile test prep app (Flutter) with fitness tracking, psychometric testing, and 
 </tr>
 </table>
 
-> See all projects at [cikalt.my.id](https://cikalt.my.id)
+> See all projects at [cik.al](https://cik.al)
 
 ---
 
